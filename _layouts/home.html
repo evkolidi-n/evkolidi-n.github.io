@@ -47,7 +47,7 @@ layout: page
       </a>
 
       <p class="post-meta">
-        {% assign date_format = site.date_format | default: "%-d.%-m.%Y" %}
+        {% assign date_format = site.date_format | default: "%d-%-m-%Y" %}
         Опубликовано {{ post.date | date: date_format }}
       </p>
 
