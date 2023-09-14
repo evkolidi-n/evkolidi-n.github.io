@@ -1,5 +1,5 @@
 ---
-layout: pagee
+layout: page
 title: Заявка на звонок
 subtitle: Расскажите об интересующем вас варианте жилья
 ---
